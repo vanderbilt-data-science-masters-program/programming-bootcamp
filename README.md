@@ -8,19 +8,14 @@ Overview: Data science workflow
 
 Reproducibility motivation / overview
 
-Evaluative assessment
 
 ### 9:30-12:00
 
-Basic command line introduction (see http://swcarpentry.github.io/shell-novice/ for a full interactive lesson)
-
 Git intro
-
-Evaluative assessment
 
 Git RStudio
 
-R/RStudio intro  (NB: change global Save Workshop option)
+R intro  (NB: change global Save Workshop option)
 
 
 ### 12-1
@@ -29,9 +24,7 @@ Lunch
 
 ### 1:00-4:00
 
-Tidyverse overview/base r mention
-
-Read data
+Tidyverse overview/base r
 
 Grammar of data manipulation introduction
 
