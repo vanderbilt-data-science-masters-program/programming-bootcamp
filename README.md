@@ -12,7 +12,7 @@ Evaluative assessment
 
 ### 9:30-12:00
 
-Basic command line introduction
+Basic command line introduction (see http://swcarpentry.github.io/shell-novice/ for a full interactive lesson)
 
 Git intro
 
@@ -20,7 +20,8 @@ Evaluative assessment
 
 Git RStudio
 
-Git practice (have pull R lesson)
+R/RStudio intro  (NB: change global Save Workshop option)
+
 
 ### 12-1
 
@@ -28,17 +29,11 @@ Lunch
 
 ### 1:00-4:00
 
-R/RStudio intro (NB: change global Save Workshop option)
-
-Notebook intro
-
 Tidyverse overview/base r mention
 
 Read data
 
 Grammar of data manipulation introduction
-
-Vector, matrix intro (generate a 5x5)
 
 Exercise
 
@@ -47,6 +42,8 @@ Exercise
 ### 9:00-9:30
 
 Recap
+
+Vector, matrix introduction
 
 Evaluative assessment
 
@@ -76,9 +73,14 @@ Reproducible workflow in Python
 
 
 ### 1:30-4:00
+
 Python intro
+
 Language basics
+
 Evaluative assessment
+
 Pandas
+
 Read summarize exercise
 
